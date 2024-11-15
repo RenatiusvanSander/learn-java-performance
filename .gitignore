@@ -25,6 +25,6 @@ replay_pid*
 
 # Exclude Eclipse
 target/
-children/learn-java-performance-jhm/target
+children/learn-java-performance-slf4j-jhm/target
 .settings/
-children/learn-java-performance-jhm/.settings
+children/learn-java-performance-slf4j-jhm/.settings
